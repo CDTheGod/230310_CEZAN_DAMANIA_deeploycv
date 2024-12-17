@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6d86586-e260-4494-992d-dc23b90dc742" name="Changes" comment="Amends">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/assignment1_q4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/assignment1_q4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CDTheGod"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CDTheGod&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CDTheGod/230310_CEZAN_DAMANIA_deeploycv.git",
-    "accountId": "48b1acdd-aaf3-48c9-bcec-c83913f4ffd9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CDTheGod/230310_CEZAN_DAMANIA_deeploycv.git&quot;,
+    &quot;accountId&quot;: &quot;48b1acdd-aaf3-48c9-bcec-c83913f4ffd9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -87,7 +86,8 @@
       <workItem from="1734446144598" duration="55000" />
       <workItem from="1734446206716" duration="351000" />
       <workItem from="1734447214094" duration="727000" />
-      <workItem from="1734451172370" duration="4924000" />
+      <workItem from="1734451172370" duration="4983000" />
+      <workItem from="1734460100717" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="Amends">
       <option name="closed" value="true" />
@@ -97,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734455037293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Amends">
+      <option name="closed" value="true" />
+      <created>1734459434290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734459434290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
