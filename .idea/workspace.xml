@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6d86586-e260-4494-992d-dc23b90dc742" name="Changes" comment="Amends" />
+    <list default="true" id="f6d86586-e260-4494-992d-dc23b90dc742" name="Changes" comment="Amends">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/assignment1_q3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/assignment1_q3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/test_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/assignment2_q1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/assignment2_q1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/assignment2_q3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/assignment2_q3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/output_ssd_cvlib.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/pipeline.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/variables/variables.index" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +101,8 @@
       <workItem from="1734447214094" duration="727000" />
       <workItem from="1734451172370" duration="4983000" />
       <workItem from="1734460100717" duration="640000" />
+      <workItem from="1734680481973" duration="669000" />
+      <workItem from="1735407788947" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="Amends">
       <option name="closed" value="true" />
