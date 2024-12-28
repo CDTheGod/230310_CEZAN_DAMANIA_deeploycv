@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6d86586-e260-4494-992d-dc23b90dc742" name="Changes" comment="Amends">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/test_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2/output_ssd_cvlib.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/pipeline.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/variables/variables.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/assignment1_q3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/assignment1_q3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/test_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/assignment2_q1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/assignment2_q1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/assignment2_q3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/assignment2_q3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/output_ssd_cvlib.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/pipeline.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/saved_model.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/variables/variables.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssd_mobilenet_v2_320x320_coco17_tpu-8/saved_model/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/img.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -56,22 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CEZAN DAMANIA/PycharmProjects/230310_CEZAN_DAMANIA_deeploycv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/CEZAN DAMANIA/PycharmProjects/230310_CEZAN_DAMANIA_deeploycv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,7 +100,7 @@
       <workItem from="1734451172370" duration="4983000" />
       <workItem from="1734460100717" duration="640000" />
       <workItem from="1734680481973" duration="669000" />
-      <workItem from="1735407788947" duration="910000" />
+      <workItem from="1735407788947" duration="1506000" />
     </task>
     <task id="LOCAL-00001" summary="Amends">
       <option name="closed" value="true" />
@@ -128,13 +126,33 @@
       <option name="project" value="LOCAL" />
       <updated>1734460579571</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Amends">
+      <option name="closed" value="true" />
+      <created>1735408864621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735408864621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Amends&#10;Update links.yml (#13470)&#10;&#10;* Update links.yml&#10;&#10;Signed-off-by: Glenn Jocher &lt;glenn.jocher@ultralytics.com&gt;&#10;&#10;* Update links.yml&#10;&#10;Signed-off-by: Glenn Jocher &lt;glenn.jocher@ultralytics.com&gt;&#10;&#10;---------&#10;&#10;Signed-off-by: Glenn Jocher &lt;glenn.jocher@ultralytics.com&gt;" />
     <MESSAGE value="Amends" />
     <option name="LAST_COMMIT_MESSAGE" value="Amends" />
   </component>
